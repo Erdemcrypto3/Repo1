@@ -6,4 +6,4 @@ since there will be only 1 tenant within 1 environment, there sohuld be no tenan
 the development should be reviewed by the client solution architects to confirm the structure. when the handover happens, the client should have a structure they they had already approved. 
 
 ---
-Last Updated: 08/Feb/2026
+Last Updated: 08/Feb/2026.
