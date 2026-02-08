@@ -31,3 +31,6 @@
 - Visual Studio Code for development
 - Power Platform Admin Center
 - Azure Portal
+
+---
+Last Updated: 08/Feb/2026
