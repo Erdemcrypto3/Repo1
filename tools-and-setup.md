@@ -35,3 +35,6 @@
 - [ ] Set up accounts
 - [ ] Configure FTP/deployment
 - [ ] Set up SSL certificates
+
+---
+Last Updated: 08/Feb/2026
