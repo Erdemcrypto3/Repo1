@@ -35,3 +35,6 @@ Create multiple marketing microsites that feed leads into Dynamics 365 CRM.
 - Professional corporate look
 - Brand colors: [To be determined]
 - Fast, minimal JavaScript
+
+  ---
+Last Updated: 08/Feb/2026
