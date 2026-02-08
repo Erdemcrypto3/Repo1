@@ -2,3 +2,5 @@
 The PO should define how the bug fixes, production deployments and everything else should be working successfully. 
 ## users to manage prod
 since there will be live data in prod environment, the classical users should not have tests in the prod environment. we should have a preprod environment, the same as prod and the test should be made on preprod. no tester or non-production user should reach prod systems.
+---
+Last updated: 08/feb/2026
